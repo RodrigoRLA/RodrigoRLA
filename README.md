@@ -2,7 +2,7 @@
 
 - 👀 Sou residente do programa Serratec!
 - 🌱 Estudando Java e JavaScript.
-- 📫 Contacteme no email: alveslisboa1995@gmail.com.
+- 📫 Contacte-me no email: alveslisboa1995@gmail.com.
 
 <div align="center">
   <a href="https://github.com/RodrigoRLA">
