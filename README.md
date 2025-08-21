@@ -1,9 +1,5 @@
 ## Olá! Eu sou o RodrigoRLA
 
-- 👀 Sou residente do programa Serratec!
-- 🌱 Estudando Java e JavaScript.
-- 📫 Contacte-me no email: alveslisboa1995@gmail.com.
-
 <div align="center">
   <a href="https://github.com/RodrigoRLA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoRLA&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
